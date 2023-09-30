@@ -14,3 +14,15 @@ Animations, presentation, complex UI, location, videos, multiplatform
 
 ## MacOS and iPadOS Screenshots / GIFs
 
+| Home | Videos |
+| ---- | ---- |
+| <img width="1027" alt="Screenshot 2023-09-30 at 08 37 44" src="https://github.com/sandorferreira1/SwiftUI-Africa/assets/86773115/9802fa53-8fec-486d-8469-78b0bdbf45f4"> | <img width="1024" alt="Screenshot 2023-09-30 at 08 36 51" src="https://github.com/sandorferreira1/SwiftUI-Africa/assets/86773115/6fe9dfd8-d75c-44cd-a66c-74753769248a"> |
+| Location | Gallery |
+| <img width="1022" alt="Screenshot 2023-09-30 at 08 37 03" src="https://github.com/sandorferreira1/SwiftUI-Africa/assets/86773115/2d03d2b2-4140-4f98-81b4-4df00e65fe90"> | <img width="1025" alt="Screenshot 2023-09-30 at 08 37 20" src="https://github.com/sandorferreira1/SwiftUI-Africa/assets/86773115/d2e6425b-2698-4b4b-ad1d-759c337a9cdf"> |
+
+
+
+
+
+
+
